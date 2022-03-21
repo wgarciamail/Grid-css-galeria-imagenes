@@ -1,10 +1,11 @@
 ## Grid CSS - Ejemplos
 
-Este ejemplo sirve como guía para realizar un grilla de imagenes adaptable entre cualquier dispositivo.
-
-Tu puedes ver el [ejemplo en funcionamiento aqui](https://wgarciamail.github.io/Grid-css-galeria-imagenes/grid-galery.html)
+Este ejemplo sirve como guía para realizar un grilla de imagenes adaptable entre cualquier dispositivo como se muestra en la imagen siguiente.
 
 ![Image](grid-galeria-imagenes.png)
+
+Tu puedes ver el [ejemplo en funcionamiento aquí](https://wgarciamail.github.io/Grid-css-galeria-imagenes/grid-galery.html)
+
 
 ### Archivo html
 ```html
