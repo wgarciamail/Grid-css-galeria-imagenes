@@ -2,7 +2,7 @@
 
 Este ejemplo sirve como guía para realizar un grilla de imagenes adaptable entre cualquier dispositivo como se muestra en la imagen siguiente.
 
-![Image](grid-galeria-imagenes.png)
+![Image](docs/grid-galeria-imagenes.png)
 
 Tu puedes ver el [ejemplo en funcionamiento aquí](https://wgarciamail.github.io/Grid-css-galeria-imagenes/grid-galery.html)
 
